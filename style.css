@@ -1,0 +1,21 @@
+img{
+  margin-top: 32px;
+  width:30%;
+  display:block;
+  margin: 0 auto;
+}
+
+
+h1{
+  text-align: center;
+  font-family: Shrikhand;
+  color: RGB(19, 49, 214);
+  font-size: 50px;
+}
+
+
+p{
+  margin:0;
+  text-align: center;
+  font-size: 20px;
+}
